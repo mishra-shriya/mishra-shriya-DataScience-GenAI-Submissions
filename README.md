@@ -7,7 +7,6 @@ This repository contains all assignment notebooks, exercises, data analysis, and
 - [Assignments](#assignments)
 - [Exercises](#exercises)
 - [Mock Assignments](#mock-assignments)
-- [Getting Started](#getting-started)
 - [License](#license)
 
 ## Assignments
@@ -38,10 +37,9 @@ This repository contains all assignment notebooks, exercises, data analysis, and
 - [Mock 1: EDA](./Mock_Assignments/EDAMock.ipynb)
 - [Mock 2: Machine Learning Modelling](./Mock_Assignments/Machine_Learning_Modelling_Mock_COMPLETED.ipynb)
 
-## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mishra-shriya/mishra-shriya-DataScience-GenAI-Submissions.git
+## License
+
+- This work is released under the MIT License
 
 
