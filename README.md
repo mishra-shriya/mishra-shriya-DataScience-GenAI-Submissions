@@ -4,4 +4,14 @@
 ### Table of Contents:
 -[Assignment 1: Data and Feature Engineering] (./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
 
+-[Assignment 2.02: Joining DataFrames]
+(./Assignment_2/2_02_Joining_DataFrames_COMPLETED.ipynb)
+-[Assignment 2.03: Calculated Fields]
+(./Assignment_2/2_03_Calculated_Fields%2C_Indexing_and_Subsetting_COMPLETED.ipynb)
+-[Assignment 2.04: Transforms]
+(./Assignment_2/2_04_Transforms_and_Concatenation_COMPLETED.ipynb)
+-[Assignment 2.05: EDA)
+(./Assignment_2/2_05_Exploratory_Data_Analysis_COMPLETED.ipynb)
+
+
 - This work is released under the MIT License
