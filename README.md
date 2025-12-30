@@ -1,6 +1,6 @@
 # Data Science & Generative AI Submissions
 
-This repository contains all assignment notebooks, exercises, data analysis, and code developed for the **Data Science & Generative AI** module. It serves as a comprehensive record of coursework and practical applications.
+This repository contains all assignment notebooks, exercises, data analysis, and code developed for the **Data Science & Generative AI** module.
 
 ## Table of Contents
 
