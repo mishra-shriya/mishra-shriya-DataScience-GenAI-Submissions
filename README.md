@@ -5,7 +5,7 @@
 
 - [Assignments](#assignments)
 - [Repository Structure](#repository-structure)
-- [Features & Highlights](#features--highlights)
+- [Exercises](#exercises)
 - [Getting Started](#getting-started)
 - [License](#license)
 
@@ -16,6 +16,9 @@
 - [Assignment 2.03: Calculated Fields, Indexing and Subsetting](./Assignment_2/2_03_Calculated_Fields%2C_Indexing_and_Subsetting_COMPLETED.ipynb)
 - [Assignment 2.04: Transforms and Concatenation](./Assignment_2/2_04_Transforms_and_Concatenation_COMPLETED.ipynb)
 - [Assignment 2.05: Exploratory Data Analysis](./Assignment_2/2_05_Exploratory_Data_Analysis_COMPLETED.ipynb)
+- 
 
+## Exercises
 
+## License
 - This work is released under the MIT License
